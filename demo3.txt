@@ -1,0 +1,2 @@
+hello world 2 
+ this is a way we don't need to close file 
