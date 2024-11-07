@@ -1,0 +1,33 @@
+{
+    "employees": [
+      {
+        "name": "John Doe",
+        "age": 28,
+        "city": "New York",
+        "department": "Sales",
+        "is_manager": false
+      },
+      {
+        "name": "Jane Smith",
+        "age": 34,
+        "city": "Los Angeles",
+        "department": "Marketing",
+        "is_manager": true
+      },
+      {
+        "name": "Sam Brown",
+        "age": 23,
+        "city": "Chicago",
+        "department": "Development",
+        "is_manager": false
+      },
+      {
+        "name": "Emily Davis",
+        "age": 45,
+        "city": "San Francisco",
+        "department": "HR",
+        "is_manager": true
+      }
+    ]
+  }
+  
